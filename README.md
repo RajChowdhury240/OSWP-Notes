@@ -3,7 +3,7 @@
 ### How to open: 
 
 ```bash
-$ git clone 
+$ git clone https://github.com/Rajchowdhury420/OSWP-Notes.git
 ```
 
 You need obsidian to open this notebook, 
